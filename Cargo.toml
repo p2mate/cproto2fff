@@ -1,0 +1,9 @@
+[package]
+name = "cproto2fff"
+version = "0.1.0"
+authors = ["Peter De Schrijver <p2@psychaos.be>"]
+edition = "2018"
+
+[dependencies]
+lang-c = "0.5.2"
+clap = "2.33.0"
